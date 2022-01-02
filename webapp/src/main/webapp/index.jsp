@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> great devops course 1 </h2>
+   <h2> great devops study material 2 </h2>
 
   
 </form>
